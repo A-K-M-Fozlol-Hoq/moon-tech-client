@@ -1,1 +1,1 @@
-Learned useReducer hook + context API project.
+Learned useReducer hook + context API project setup.
